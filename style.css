@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Indie Flower', cursive;
+  margin: 40px;
+  background-image:("./tie_dye.jpg")
+}
+
+form{
+  /* background: white; */
+  display:flex;
+  flex-direction: column;
+}
+
+h1{
+  /* background: white; */
+  display:flex;
+  justify-content: center;
+
+}
+
+.hide{
+  display: none;
+}
